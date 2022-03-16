@@ -24,5 +24,4 @@ public class Main {
         list.clear();
         System.out.println(Arrays.toString(list.toArray()));
     }
-
 }
